@@ -42,8 +42,8 @@ testimonials:
 <!-- {{< client-logos animate="true" >}} -->
 
 {{< features-section 
-    title="생성형 AI 기반 서비스 구축을 위한 완벽한 컨설팅"
-    description="비즈니스 성과를 가져올 생성형 AI 서비스를 만드는 가장 빠른 방법"
+    title="비즈니스 성과와 디지털 전환을 가속화 하기위한 레드햇 서비스"
+    description="레드햇 서비스는 비즈니스 성과와 디지털 전환을 가속화 하기위한 다양한 서비스를 제공합니다."
 >}}
 
 {{< feature
