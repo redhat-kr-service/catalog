@@ -27,56 +27,56 @@ testimonials:
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
+    headline="생성형 AI 구축 시작하기"
     sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
     primary_button_text="Get Started Free"
     primary_button_url="#"
     secondary_button_text="View Demo"
     secondary_button_url="#"
-    hero_image="/images/hero-dashboard.svg"
+    hero_image="/images/rh-ai4.png"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
 >}}
 
-{{< client-logos animate="true" >}}
+<!-- {{< client-logos animate="true" >}} -->
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="생성형 AI 기반 서비스 구축을 위한 완벽한 컨설팅"
+    description="비즈니스 성과를 가져올 생성형 AI 서비스를 만드는 가장 빠른 방법"
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    title="생성형 AI 서비스의 빠른 프로토타이핑"
+    description="업무 도메인을 기반으로 비즈니스 가치를 창출 할 수 있는 빠른 프로토타입 구현이 무엇보다 필요합니다."
+    badge="AI 인큐베이터 프로그램"
     badgeColor="#2563eb"
-    image="/images/feature-1.svg"
-    buttonText="Learn More"
+    image="/images/ai-incubator.jpg"
+    buttonText="서비스 신청하기"
     buttonLink="/features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    features="AI 네비게이트 워크샵,AI서비스 프로토타입핑,Rhel AI를 이용한 최적화된 도메인 모델 생성, 프로토타입 평가 및 피드백"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    title="가상화 전환을 위한 가장 완벽한 준비"
+    description="Kubernetes 기반 가상화로 전환 하기위한 최적화된 프로세스를 제공합니다."
+    badge="가상화 전환 평가 서비스"
     badgeColor="#7c3aed"
-    image="/images/feature-2.svg"
-    buttonText="Learn More"
+    image="/images/ov.png"
+    buttonText="서비스 신청하기"
     buttonLink="/features/design-system/"
     features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    title="서버 자동화를 향한 최적화된 방법론 제공"
+    description="베어메탈 서버부터 가상머신까지 인프라 전반에 걸친 운영 프로세스에 일관된 자동화를 제공합니다."
+    badge="자동화 인큐베이터"
     badgeColor="#16a34a"
-    image="/images/feature-3.svg"
-    buttonText="Learn More"
+    image="/images/ansible.png"
+    buttonText="서비스 신청하기"
     buttonLink="/features/developer-experience/"
     features="Component system,Easy customization,Clean code,Detailed documentation"
     imagePosition="right"
@@ -85,7 +85,7 @@ testimonials:
 {{< /features-section >}}
 
 {{< testimonials 
-    title="Trusted by Modern Web Teams"
+    title="레드햇 서비스 고객"
     description="See how teams are building better websites with our theme."
     animate="true"
     background-color="#f1f5f9"
