@@ -28,7 +28,7 @@ testimonials:
 
 {{< hero 
     headline="AI 네비게이트 워크샵"
-    sub_headline="AI 네비게이트 워크샵을 통해 AI 서비스 구축을 위한 완벽하고 빠른 로드맵을 완성해 보세요."
+    sub_headline="AI 네비게이트 워크샵은 AI를 활용해 무엇을 해야 하는지 명확한 로드맵을 제시해 주는 컨설팅 프로그램 입니다."
     primary_button_text="Get Started Free"
     primary_button_url="#"
     secondary_button_text="View Demo"
