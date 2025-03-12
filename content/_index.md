@@ -33,7 +33,7 @@ testimonials:
     primary_button_url="#"
     secondary_button_text="View Demo"
     secondary_button_url="#"
-    hero_image="/images/rh-ai4.png"
+    hero_image="/rh-svc-catalog/images/rh-ai4.png"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
