@@ -34,7 +34,6 @@ testimonials:
     secondary_button_text="View Demo"
     secondary_button_url="#"
     hero_image="/rh-svc-catalog/images/ai-incubator.jpg"
-    <!-- hero_image="/rh-svc-catalog/images/rh-ai4.png" -->
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
@@ -53,7 +52,6 @@ testimonials:
     badge="AI 인큐베이터 프로그램"
     badgeColor="#2563eb"
     image="/rh-svc-catalog/images/rh-ai4.png"
-    <!-- image="/rh-svc-catalog/images/ai-incubator.jpg" -->
     buttonText="서비스 신청하기"
     buttonLink="/features/performance/"
     features="AI 네비게이트 워크샵,AI서비스 프로토타입핑,Rhel AI를 이용한 최적화된 도메인 모델 생성, 프로토타입 평가 및 피드백"
