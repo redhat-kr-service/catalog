@@ -27,13 +27,14 @@ testimonials:
 ---
 
 {{< hero 
-    headline="생성형 AI 구축 시작하기"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
+    headline="생성형 AI 네비게이트 워크샵"
+    sub_headline="생성형 AI 네비게이트 워크샵을 통해 비즈니스 가치를 창출 할 수 있는 생성형 AI 서비스를 만들어 보세요."
     primary_button_text="Get Started Free"
     primary_button_url="#"
     secondary_button_text="View Demo"
     secondary_button_url="#"
-    hero_image="/rh-svc-catalog/images/rh-ai4.png"
+    hero_image="/rh-svc-catalog/images/ai-incubator.jpg"
+    <!-- hero_image="/rh-svc-catalog/images/rh-ai4.png" -->
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
@@ -51,7 +52,8 @@ testimonials:
     description="업무 도메인을 기반으로 비즈니스 가치를 창출 할 수 있는 빠른 프로토타입 구현이 무엇보다 필요합니다."
     badge="AI 인큐베이터 프로그램"
     badgeColor="#2563eb"
-    image="/rh-svc-catalog/images/ai-incubator.jpg"
+    image="/rh-svc-catalog/images/rh-ai4.png"
+    <!-- image="/rh-svc-catalog/images/ai-incubator.jpg" -->
     buttonText="서비스 신청하기"
     buttonLink="/features/performance/"
     features="AI 네비게이트 워크샵,AI서비스 프로토타입핑,Rhel AI를 이용한 최적화된 도메인 모델 생성, 프로토타입 평가 및 피드백"
