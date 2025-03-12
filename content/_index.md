@@ -28,7 +28,7 @@ testimonials:
 
 {{< hero 
     headline="AI 네비게이트 워크샵"
-    sub_headline="생성형 AI 네비게이트 워크샵을 통해 비즈니스 가치를 창출 할 수 있는 생성형 AI 서비스를 만들어 보세요."
+    sub_headline="AI 네비게이트 워크샵을 통해 AI 서비스 구축을 위한 완벽하고 빠른 로드맵을 완성해 보세요."
     primary_button_text="Get Started Free"
     primary_button_url="#"
     secondary_button_text="View Demo"
