@@ -1,5 +1,5 @@
 ---
-title: "자동화 네비게이트 워크샵"
+title: "자동화 플랫폼 구축"
 description: "Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
 layout: "feature"
 badge: "Performance"
