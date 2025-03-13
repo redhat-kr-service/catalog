@@ -64,15 +64,11 @@ enableGitInfo = true      # Enable Git info for lastmod
   # Global CTA Configuration (optional)
   [params.cta]
     enable = true
-    title = "Ready to Get Started?"
-    description = "Join companies using our platform"
+    title = "레드햇 서비스와 함께 시작할 준비가 되셨나요?"
+    description = "지금 바로 레드햇 영업에게 문의하세요."
     [params.cta.primary_button]
-      text = "Get Started Free"
+      text = "무료 상담 신청하기"
       url = "/get-started"
-    [params.cta.secondary_button]
-      text = "Book Demo"
-      url = "/demo"
-
   # Social Media Links (optional)
   [params.social]
     linkedin = "https://linkedin.com/in/yourusername"
