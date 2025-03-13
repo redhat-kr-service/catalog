@@ -47,13 +47,13 @@ testimonials:
 
 {{< feature
     title="생성형 AI 서비스의 빠른 프로토타이핑"
-    description="업무 도메인을 기반으로 비즈니스 가치를 창출 할 수 있는 빠른 프로토타입 구현이 무엇보다 필요합니다."
+    description="업무 도메인을 기반으로 비즈니스 가치를 창출 할 수 있는 빠른 프로토타입 AI서비스를 구현해 드립니다."
     badge="AI 인큐베이터 프로그램"
     badgeColor="#2563eb"
     image="/catalog/images/rh-ai4.png"
     buttonText="더 알아보기"
     buttonLink="/features/performance/"
-    features="AI 네비게이트 워크샵,AI서비스 프로토타입핑,Rhel AI를 이용한 최적화된 도메인 모델 생성, 프로토타입 평가 및 피드백"
+    features="비즈니스 성과에 부합하는 AI 서비스 발굴, AI서비스 프로토타입핑, 서빙 플랫폼 디자인 및 구현, 프로토타입 평가 및 피드백"
     imagePosition="right"
 >}}
 
