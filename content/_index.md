@@ -28,7 +28,7 @@ testimonials:
 
 {{< hero 
     headline="AI 네비게이트"
-    sub_headline="AI 네비게이트 워크샵 AI전략을 가장 쉽고 빠르게 시작 할 수 있는 컨설팅 프로그램 입니다. 우리 비즈니스 도메인에서 가장 현실적이고 가치있는 AI 전략을 무엇인지 레드햇 컨설팅 팀이 도와드립니다."
+    sub_headline="AI 네비게이트 워크샵 AI전략을 가장 쉽고 빠르게 시작 할 수 있는 컨설팅 프로그램 입니다. 우리 비즈니스 도메인에서 가장 현실적이고 가치있는 AI 전략은 무엇인지 레드햇 컨설팅 팀이 도와드립니다."
     primary_button_text="더 알아보기"
     primary_button_url="#"
     secondary_button_url="#"
