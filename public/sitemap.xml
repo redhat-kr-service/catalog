@@ -102,14 +102,16 @@
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
     <loc>http://localhost:54928/catalog/features/automation-1/</loc>
+    <lastmod>2025-03-13T11:20:19+09:00</lastmod>
   </url><url>
     <loc>http://localhost:54928/catalog/company/</loc>
     <lastmod>2025-03-13T07:26:38+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:54928/catalog/features/ai-2/</loc>
-  </url><url>
     <loc>http://localhost:54928/catalog/features/ai-1/</loc>
-    <lastmod>2025-03-13T10:34:12+09:00</lastmod>
+    <lastmod>2025-03-13T11:20:19+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54928/catalog/features/ai-2/</loc>
+    <lastmod>2025-03-13T11:20:19+09:00</lastmod>
   </url><url>
     <loc>http://localhost:54928/catalog/features/design-system/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
@@ -118,7 +120,7 @@
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
     <loc>http://localhost:54928/catalog/features/</loc>
-    <lastmod>2025-03-13T10:34:12+09:00</lastmod>
+    <lastmod>2025-03-13T11:20:19+09:00</lastmod>
   </url><url>
     <loc>http://localhost:54928/catalog/</loc>
     <lastmod>2025-03-13T10:18:07+09:00</lastmod>
@@ -133,6 +135,7 @@
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
     <loc>http://localhost:54928/catalog/features/ai-3/</loc>
+    <lastmod>2025-03-13T11:20:19+09:00</lastmod>
   </url><url>
     <loc>http://localhost:54928/catalog/pricing/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
@@ -140,8 +143,10 @@
     <loc>http://localhost:54928/catalog/privacy/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:54928/catalog/features/virtual-1/</loc>
-  </url><url>
     <loc>http://localhost:54928/catalog/features/virtual-2/</loc>
+    <lastmod>2025-03-13T11:20:19+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54928/catalog/features/virtual-1/</loc>
+    <lastmod>2025-03-13T11:20:19+09:00</lastmod>
   </url>
 </urlset>
