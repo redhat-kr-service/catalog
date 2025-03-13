@@ -18,11 +18,11 @@ demo:
   image: "/images/feature-2.svg"
 ---
 
-## Comprehensive Design System
+## AI 네비게이트 워크샵이 뭔가요?
 
 Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.
 
-### Design Components
+### AI 네비게이트 워크샵의 결과
 
 #### Core Elements
 - Typography system with perfect vertical rhythm
