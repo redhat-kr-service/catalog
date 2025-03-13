@@ -75,7 +75,7 @@ testimonials:
     badge="자동화 인큐베이터"
     badgeColor="#16a34a"
     image="/catalog/images/ansible.png"
-    buttonText="서비스 신청하기"
+    buttonText="더 알아보기"
     buttonLink="/features/developer-experience/"
     features="자동화 수준 및 목표 설정, 자동화 대상 과 적용 패턴 수립,프로젝트 방안 및 일정 수립, 자동화 요구사항 확정"
     imagePosition="right"
