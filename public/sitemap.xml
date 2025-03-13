@@ -2,159 +2,160 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59574/catalog/jobs/</loc>
+    <loc>http://localhost:1313/catalog/jobs/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/jobs/product-manager/</loc>
+    <loc>http://localhost:1313/catalog/jobs/product-manager/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/jobs/senior-frontend-developer/</loc>
+    <loc>http://localhost:1313/catalog/jobs/senior-frontend-developer/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/blog/</loc>
+    <loc>http://localhost:1313/catalog/blog/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/categories/</loc>
+    <loc>http://localhost:1313/catalog/categories/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/categories/content/</loc>
+    <loc>http://localhost:1313/catalog/categories/content/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/blog/content-management-hugo/</loc>
+    <loc>http://localhost:1313/catalog/blog/content-management-hugo/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/content-management/</loc>
+    <loc>http://localhost:1313/catalog/tags/content-management/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/hugo/</loc>
+    <loc>http://localhost:1313/catalog/tags/hugo/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/organization/</loc>
+    <loc>http://localhost:1313/catalog/tags/organization/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/</loc>
+    <loc>http://localhost:1313/catalog/tags/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/workflow/</loc>
+    <loc>http://localhost:1313/catalog/tags/workflow/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/optimization/</loc>
+    <loc>http://localhost:1313/catalog/tags/optimization/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/blog/optimizing-hugo-performance/</loc>
+    <loc>http://localhost:1313/catalog/blog/optimizing-hugo-performance/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/performance/</loc>
+    <loc>http://localhost:1313/catalog/tags/performance/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/categories/performance/</loc>
+    <loc>http://localhost:1313/catalog/categories/performance/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/seo/</loc>
+    <loc>http://localhost:1313/catalog/tags/seo/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/blog/deploying-hugo-sites/</loc>
+    <loc>http://localhost:1313/catalog/blog/deploying-hugo-sites/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/deployment/</loc>
+    <loc>http://localhost:1313/catalog/tags/deployment/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/categories/deployment/</loc>
+    <loc>http://localhost:1313/catalog/categories/deployment/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/github-pages/</loc>
+    <loc>http://localhost:1313/catalog/tags/github-pages/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/netlify/</loc>
+    <loc>http://localhost:1313/catalog/tags/netlify/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/vercel/</loc>
+    <loc>http://localhost:1313/catalog/tags/vercel/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/customization/</loc>
+    <loc>http://localhost:1313/catalog/tags/customization/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/blog/customizing-your-hugo-theme/</loc>
+    <loc>http://localhost:1313/catalog/blog/customizing-your-hugo-theme/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/categories/development/</loc>
+    <loc>http://localhost:1313/catalog/categories/development/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/themes/</loc>
+    <loc>http://localhost:1313/catalog/tags/themes/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/web-design/</loc>
+    <loc>http://localhost:1313/catalog/tags/web-design/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/beginners/</loc>
+    <loc>http://localhost:1313/catalog/tags/beginners/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/blog/getting-started-with-hugo/</loc>
+    <loc>http://localhost:1313/catalog/blog/getting-started-with-hugo/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/static-site/</loc>
+    <loc>http://localhost:1313/catalog/tags/static-site/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/categories/tutorials/</loc>
+    <loc>http://localhost:1313/catalog/categories/tutorials/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/tags/web-development/</loc>
+    <loc>http://localhost:1313/catalog/tags/web-development/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/company/</loc>
+    <loc>http://localhost:1313/catalog/company/</loc>
     <lastmod>2025-03-13T07:26:38+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/ai-3/</loc>
+    <loc>http://localhost:1313/catalog/features/ai-3/</loc>
     <lastmod>2025-03-13T11:40:49+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/ai-1/</loc>
-    <lastmod>2025-03-13T11:40:49+09:00</lastmod>
+    <loc>http://localhost:1313/catalog/features/ai-1/</loc>
+    <lastmod>2025-03-13T13:32:02+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/ai-2/</loc>
-    <lastmod>2025-03-13T11:40:49+09:00</lastmod>
+    <loc>http://localhost:1313/catalog/features/ai-2/</loc>
+    <lastmod>2025-03-13T13:32:02+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/design-system/</loc>
+    <loc>http://localhost:1313/catalog/features/design-system/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/developer-experience/</loc>
+    <loc>http://localhost:1313/catalog/features/developer-experience/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/</loc>
-    <lastmod>2025-03-13T11:40:49+09:00</lastmod>
+    <loc>http://localhost:1313/catalog/features/</loc>
+    <lastmod>2025-03-13T13:32:02+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/</loc>
-    <lastmod>2025-03-13T10:18:07+09:00</lastmod>
+    <loc>http://localhost:1313/catalog/</loc>
+    <lastmod>2025-03-13T13:32:02+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/careers/</loc>
+    <loc>http://localhost:1313/catalog/careers/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/license/</loc>
+    <loc>http://localhost:1313/catalog/license/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/performance/</loc>
+    <loc>http://localhost:1313/catalog/features/performance/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/ai-4/</loc>
+    <loc>http://localhost:1313/catalog/features/ai-4/</loc>
+    <lastmod>2025-03-13T13:32:02+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/pricing/</loc>
+    <loc>http://localhost:1313/catalog/pricing/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/privacy/</loc>
+    <loc>http://localhost:1313/catalog/privacy/</loc>
     <lastmod>2025-03-12T15:17:33+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/virtual-2/</loc>
+    <loc>http://localhost:1313/catalog/features/virtual-2/</loc>
     <lastmod>2025-03-13T11:20:19+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/virtual-1/</loc>
+    <loc>http://localhost:1313/catalog/features/virtual-1/</loc>
     <lastmod>2025-03-13T11:20:19+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/automation-1/</loc>
+    <loc>http://localhost:1313/catalog/features/automation-1/</loc>
     <lastmod>2025-03-13T11:40:49+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/automation-2/</loc>
+    <loc>http://localhost:1313/catalog/features/automation-2/</loc>
     <lastmod>2025-03-13T11:24:30+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:59574/catalog/features/automation-3/</loc>
+    <loc>http://localhost:1313/catalog/features/automation-3/</loc>
     <lastmod>2025-03-13T11:24:30+09:00</lastmod>
   </url>
 </urlset>
