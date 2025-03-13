@@ -1,29 +1,26 @@
 ---
-title: "AI Incubator"
+title: "ML Ops 파운데이션"
 description: "레드햇 서비스와 함게 비즈니스 가치를 창출 할 수 있는 AI 서비스를 발굴하고 프로토타입을 구현합니다."
 layout: "feature"
-badge: "컨설팅 서비스"
+badge: "구축 서비스"
 badgeColor: "#7c3aed"
 features:
-  - title: "도메인 AI 서비스 발굴"
-    description: "blah blah blah blah"
-    
-  - title: "AI 서비스 프로토타이핑"
-    description: "blah blah blah blah"
-
-  - title: "개발 부터 서비스까지"
-    description: "blah blah blah blah"
-
-  - title: "모델 개발 부터"
-    description: "blah blah blah blah"
+  - title: "Modern UI Components"
+    description: "A complete set of pre-built components designed for SaaS websites. From navigation bars to pricing tables, everything you need is included."
+  - title: "Responsive Design"
+    description: "Every component is fully responsive and tested across all device sizes. Your website will look great on everything from phones to large displays."
+  - title: "Custom Typography"
+    description: "Carefully crafted typography system with perfect vertical rhythm. Easily customize fonts and sizes to match your brand guidelines."
+  - title: "Flexible Layouts"
+    description: "Modular layout system that adapts to your content. Create unique page layouts while maintaining consistent spacing and alignment."
 demo:
   description: "Explore our comprehensive design system built with TailwindCSS."
   image: "/images/feature-2.svg"
 ---
 
-## AI 인큐베이터란?
+## AI 네비게이트 워크샵이란?
 
-처음 AI를 도입하고 적용하고자 하는 기업에게 제공하는 레드햇 컨설팅 서비스 입니다.
+Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.
 
 ### AI 네비게이트 워크샵의 결과
 
