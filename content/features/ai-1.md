@@ -1,5 +1,5 @@
 ---
-title: "AI Incubator"
+title: "AI 네비게이트"
 description: "레드햇 서비스와 함게 비즈니스 가치를 창출 할 수 있는 AI 서비스를 발굴하고 프로토타입을 구현합니다."
 layout: "feature"
 badge: "컨설팅 서비스"
