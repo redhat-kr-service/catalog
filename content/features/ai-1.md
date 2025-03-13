@@ -5,49 +5,44 @@ layout: "feature"
 badge: "컨설팅 서비스"
 badgeColor: "#7c3aed"
 features:
-  - title: "도메인 AI 서비스 발굴"
-    description: "blah blah blah blah"
+  - title: "AI 서비스 발굴"
+    description: "업무 프로세스를 분석하고 비즈니스 현황을 파악하여 가치를 극대화 할 수 있는 AI 서비스를 발굴 합니다."
     
-  - title: "AI 서비스 프로토타이핑"
-    description: "blah blah blah blah"
+  - title: "실행전략 수립"
+    description: "모델 개발 부터 인프라 구축까지 모든 과정을 체계화하여 실행 가능한 전략을 수립합니다."
 
-  - title: "개발 부터 서비스까지"
-    description: "blah blah blah blah"
+  - title: "리스크 식별 및 솔루션 제공"
+    description: "서비스에 적용하는데 있어 발생할 수 있는 리스크를 식별하고 솔루션을 제시합니다."
 
-  - title: "모델 개발 부터"
-    description: "blah blah blah blah"
+  - title: "서비스 하이레벨 아키텍처"
+    description: "AI서빙 학습 및 서빙 인프라에 대한 하이레벨 아키텍처를 제시합니다."
 demo:
   description: "Explore our comprehensive design system built with TailwindCSS."
   image: "/images/feature-2.svg"
 ---
 
-## AI 인큐베이터란?
+## AI 네비게이트
 
-처음 AI를 도입하고 적용하고자 하는 기업에게 제공하는 레드햇 컨설팅 서비스 입니다.
+처음 AI를 도입하고 적용하고자 하는 기업에게 제공하는 컨설팅 워크숍 입니다.
 
-### AI 네비게이트 워크샵의 결과
+### AI 네비게이트 워크샵의 결과 (OutCome)
 
-#### 실행 가능한 AI 전략수립
-- Typography system with perfect vertical rhythm
-- Color palette with semantic variables
-- Spacing and sizing scales
-- Grid and layout systems
+#### 서비스 발굴
+- 비즈니스 가치 및 실행 난이도를 고려한 서비스 발굴
+- 회사내 다양한 업무도메인 식별 및 아이디어 발굴
 
-#### AI 서비스 요구사항 수립 
-- Navigation components (headers, footers, menus)
-- Hero sections and feature displays
-- Cards and content containers
-- Forms and input elements
-- Buttons and CTAs
-- Pricing tables
-- Testimonial displays
-- Team member profiles
+#### 실행 전략 수립
+- 구현 및 서비스를 위한 구체적 실행 방안수립
+- 
 
 ##### 리스크 최소화 방안
-- Easy theme customization through TailwindCSS
-- Brand color management
-- Typography customization
-- Spacing system adjustment
-- Component variants
+- 실행에 필요한 모든 리스크 검토
+- 리스크에 대한 솔루션 탐색 및 제공
 
-Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.
+### AI 네비게이트 워크샵 수행일정
+- 실행에 필요한 모든 리스크 검토
+- 리스크에 대한 솔루션 탐색 및 제공
+### AI 네비게이트 워크샵 참석대상
+- 실행에 필요한 모든 리스크 검토
+- 리스크에 대한 솔루션 탐색 및 제공
+

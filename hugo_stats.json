@@ -406,10 +406,16 @@
       "advanced-customization-techniques",
       "advanced-features",
       "advanced-optimization-techniques",
+      "ai-네비게이트",
+      "ai-네비게이트-워크샵-수행일정",
+      "ai-네비게이트-워크샵-참석대상",
       "ai-네비게이트-워크샵의-결과",
+      "ai-네비게이트-워크샵의-결과-outcome",
       "ai-네비게이트-워크샵이란",
       "ai-서비스-요구사항-수립",
-      "ai-인큐베이터란",
+      "ai-서비스-프로토타입-완성",
+      "ai-인큐베이터",
+      "ai-인큐베이터의-결과---outcome",
       "asset-optimization",
       "automatically-collected-information",
       "backup-strategies",
@@ -496,7 +502,9 @@
       "working-with-partials",
       "your-rights",
       "리스크-최소화-방안",
-      "실행-가능한-ai-전략수립"
+      "서비스-발굴",
+      "실행-가능한-ai-전략수립",
+      "실행-전략-수립"
     ]
   }
 }

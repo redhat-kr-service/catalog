@@ -21,13 +21,13 @@ demo:
   image: "/images/feature-2.svg"
 ---
 
-## AI 인큐베이터란?
+## AI 인큐베이터
 
 처음 AI를 도입하고 적용하고자 하는 기업에게 제공하는 레드햇 컨설팅 서비스 입니다.
 
-### AI 네비게이트 워크샵의 결과
+### AI 인큐베이터의 결과 - OutCome
 
-#### 실행 가능한 AI 전략수립
+#### AI 서비스 프로토타입 완성
 - Typography system with perfect vertical rhythm
 - Color palette with semantic variables
 - Spacing and sizing scales
