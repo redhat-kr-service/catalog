@@ -38,7 +38,7 @@ enableGitInfo = true      # Enable Git info for lastmod
   description = "Red Hat Service Catalog"
   author = "Your Name"
   #logo = "/images/rh-logo.png"      # Path to your logo
-  logo = "/rh-svc-catalog/images/rh-svc-logo.png"
+  logo = "/catalog/images/rh-svc-logo.png"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   googleAnalytics = "G-XXXXXXXXXX"  # Only enabled in production
 
@@ -49,7 +49,7 @@ enableGitInfo = true      # Enable Git info for lastmod
     
     # Header Logo
     [params.header.logo]
-      src = "/rh-svc-catalog/images/rh-svc-logo2.png"
+      src = "/catalog/images/rh-svc-logo2.png"
     
     # Header Buttons (optional)
     [params.header.buttons]
