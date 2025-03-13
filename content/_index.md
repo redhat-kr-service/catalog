@@ -77,7 +77,7 @@ testimonials:
     image="/catalog/images/ansible.png"
     buttonText="서비스 신청하기"
     buttonLink="/features/developer-experience/"
-    features="자동화 수준 및 목표 설정, 자동화 대상 및 패턴 수립,자동화 일정 및 방안 수립, 요구사항 수립"
+    features="자동화 수준 및 목표 설정, 자동화 대상 과 적용 패턴 수립,프로젝트 방안 및 일정 수립, 자동화 요구사항 확정"
     imagePosition="right"
 >}}
 
