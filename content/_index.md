@@ -65,19 +65,19 @@ testimonials:
     image="/rh-svc-catalog/images/ov.png"
     buttonText="서비스 신청하기"
     buttonLink="/features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    features="AS-IS 가상화 현환 분석, 전환 리스크 식별 및 솔루션 탐색,전환 일정 수립,전환 가치 평가"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="서버 자동화를 향한 최적화된 방법론 제공"
-    description="베어메탈 서버부터 가상머신까지 인프라 전반에 걸친 운영 프로세스에 일관된 자동화를 제공합니다."
+    title="인프라 자동화를 향한 최적화된 방법론 제공"
+    description="베어메탈 부터 가상머신까지 인프라 전반에 걸친 운영 프로세스에 일관된 자동화 로드맵을 제공합니다.."
     badge="자동화 인큐베이터"
     badgeColor="#16a34a"
     image="/rh-svc-catalog/images/ansible.png"
     buttonText="서비스 신청하기"
     buttonLink="/features/developer-experience/"
-    features="AS-IS 가상화 현환 분석, 전환 리스크 식별 및 솔루션 탐색,전환 일정 수립,전환 가치 평가"
+    features="자동화 수준 및 목표 설정, 자동화 대상 및 패턴 수립,자동화 일정 및 방안 수립, 요구사항 수립"
     imagePosition="right"
 >}}
 
