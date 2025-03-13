@@ -89,8 +89,8 @@ enableGitInfo = true      # Enable Git info for lastmod
       submenu = [
         { name = "AI 네비게이트", url = "/catalog/features/ai-1/" },
         { name = "AI 인큐베이터", url = "/catalog/features/ai-2/" },
-        { name = "AI-Ops 파운데이션", url = "/catalog/features/ai-3/" },
-        { name = "ML-Ops 파운데이션", url = "/catalog/features/ai-4/" }
+        { name = "AIOps 파운데이션", url = "/catalog/features/ai-3/" },
+        { name = "MLOps 파운데이션", url = "/catalog/features/ai-4/" }
       ]
   [[menu.main]]
     name = "쿠버네티스 가상화"
