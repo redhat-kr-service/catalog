@@ -87,7 +87,7 @@ enableGitInfo = true      # Enable Git info for lastmod
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "AI 네비게이트 워크샵", url = "/features/feature-1/" },
+        { name = "AI 네비게이트 워크샵", url = "/features/ai-1/" },
         { name = "AI 인큐베이터", url = "/features/feature-2/" },
         { name = "AI-Ops Foundation", url = "/features/feature-3/" },
         { name = "ML-Ops Foundation", url = "/features/feature-4/" }
