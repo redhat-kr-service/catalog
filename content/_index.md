@@ -77,7 +77,7 @@ testimonials:
     image="/rh-svc-catalog/images/ansible.png"
     buttonText="서비스 신청하기"
     buttonLink="/features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    features="AS-IS 가상화 현환 분석, 전환 리스크 식별 및 솔루션 탐색,전환 일정 수립,전환 가치 평가"
     imagePosition="right"
 >}}
 
