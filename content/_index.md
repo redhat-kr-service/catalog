@@ -28,7 +28,7 @@ testimonials:
 
 {{< hero 
     headline="AI 네비게이트"
-    sub_headline="AI 네비게이트 워크샵은 기업의 AI전략을 완성하는 시작 입니다."
+    sub_headline="AI 네비게이트 워크샵 AI전략을 가장 쉽고 빠르게 시작 할 수 있는 컨설팅 프로그램 입니다."
     primary_button_text="더 알아보기"
     primary_button_url="#"
     secondary_button_url="#"
