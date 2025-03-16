@@ -48,7 +48,7 @@ enableGitInfo = true      # Enable Git info for lastmod
     
     # Header Logo
     [params.header.logo]
-      src = "/catalog/images/rh-svc-logo3.png"
+      src = "/catalog/images/rh-svc-logo4.png"
     
     # Header Buttons (optional)
     [params.header.buttons]
